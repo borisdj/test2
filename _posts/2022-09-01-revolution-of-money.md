@@ -1,5 +1,5 @@
 ---
-title: "(r)Evolution of Money"
+title: "(r)Evolucija Novca"
 date: 2022-09-01T00:00:00-00:00
 categories: [fintech]
 tags: [finance, crypto]
@@ -8,109 +8,108 @@ image: "/assets/images/evolution-of-money.jpg"
 excerpt: "Bitcoin rise with crypto industry story"
 ---
 
-(*Money and Payment systems of tomorrow*)<br>
-**Bitcoin** rise with crypto industry story
+(*Novac i platni sistem sutrašnjice*)<br>
+Uspon **Bitcoin-a** sa pričom kripto industriji
 
-Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"} / [*AudioBook*](https://drive.google.com/file/d/14FEfpxOUQOfT16tFeTH5cha4f8YxuFwN/view?usp=sharing){:target="_blank"}<br>
+Verzije: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"}<br>
 LANG(jezik):<br>
-Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-latn-ba)
+[Globalni](https://infopedia.io/revolution-of-money) (en-us) / Lokalni (sr-latn-ba)
 
-![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
+![evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
 
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
 
+**Sadržaj [C]**
 
-**Table Of Contents [C]**
-{: #toc }
-
-| [Introduction](#introduction)         |
+| [Uvod](#introduction) |
 | ------------------------------------- |
-| [**1. Monetary Chronicles**](#monetary-chronicles) |
-| [1.1 Beginning of Money](#beginning-of-money) |
-| [1.2 Recent History](#recent-history) |
-| [1.3 Modern age](#modern-age) |
-| [1.4 Sum it so far](#sum-it-so-far) |
-| [**2. Bitcoin Explanation**](#bitcoin-explanation) |
-| [2.1 How it all started](#how-it-all-started) |
-| [2.2 Technical background](#technical-background) |
-| [2.3 Extended description](#extended-description) |
-| [**3. Comparative Advantage**](#comparative-advantage) |
-| [3.1 SWOT analysis](#swot-analysis) |
-| [3.2 Deflation](#deflation) |
-| [3.3 Other Cryptos](#other-cryptos) |
-| [3.4 Proof of Work (PoW) vs Stake](#pow-vs-pos) |
-| [**4. Global Effects**](#global-effects) |
-| [4.1 Economic impact](#economic-impact) |
-| [4.2 Political implications](#political-implications) |
-| [4.3 Social component](#social-component) |
-| [**5. Looking Forward**](#looking-forward) |
-| [5.1 Future Development](#future-development) |
-| [5.2 What lies ahead](#what-lies-ahead) |
-| [5.3 Practical Approach](#practical-approach) |
-| [5.4 Recapitulation](#recapitulation) |
+| [**1. Monetarne Hronike**](#monetary-chronicles) |
+| [1.1 Početak Novca](#beginning-of-money) |
+| [1.2 Skorija istorija](#recent-history) |
+| [1.3 Moderno doba](#modern-age) |
+| [1.4 Dosadašnji sažetak](#sum-it-so-far) |
+| [**2. Bitcoin objašnjenje**](#bitcoin-explanation) |
+| [2.1 Kako je sve počelo](#how-it-all-started) |
+| [2.2 Tehnička pozadina](#technical-background) |
+| [2.3 Prošireni opis](#extended-description) |
+| [**3. Komparativna prednost**](#comparative-advantage) |
+| [3.1 SWOT analiza](#swot-analysis) |
+| [3.2 Deflacija](#deflation) |
+| [3.3 Ostale kripto valute](#other-cryptos) |
+| [3.4 Dokaz o radu/ulogu (PoW/PoS)](#pow-vs-pos) |
+| [**4. Globalni efekti**](#global-effects) |
+| [4.1 Ekonomski uticaj](#economic-impact) |
+| [4.2 Političke implikacije](#political-implications) |
+| [4.3 Socijalna komponenta](#social-component) |
+| [**5. Gledajući naprijed**](#looking-forward) |
+| [5.1 Budući razvoj](#future-development) |
+| [5.2 Šta dalje](#what-lies-ahead) |
+| [5.3 Praktični pristup](#practical-approach) |
+| [5.4 Rekapitulacija](#recapitulation) |
 
-## Introduction
+## Uvod [[ToC](#toc)]
 {: #introduction }
--- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also discover future perspective and possibilities. In a futuristic context, first word to mention is [**Bitcoin**](https://bitcoin.org/en/){:target="_blank"}, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
--- Discussion is lengthy as is the nature of topic, so it's divided into segments for easier comprehension.
-Do not be discouraged if material seems foreign. Most people, depending on level of familiarity with the subject, will need to read it several times, since it is abundant with various information. Also, best to spread it across multiple days and sleep over it, after which many questions will pop up. Regarding these questions you have friends and forums to talk / chat with, as well as blogs, articles to read and YT channels / podcasts for listening. You can also leave a comment or question at the bottom. And the more you know the more you want to find out, so-called: *Falling 'Down the (Bitcoin) Rabbit Hole'* (metaphor for adventure into the unknown from *Alice in Wonderland*). It will make you think but simultaneously broaden your horizons.<br>
--- What's important is to get the idea and fundamentals, and how to engage with it. Not everybody needs to know all technical details in order to use it. But for those who want to know it deeply some estimate is that minimum [100 Hours of Study](https://crypto-telegraphs.com/2022/06/22/100-hours-of-study-needed-to-understand-how-bitcoin-works/){:target="_blank"} ([100 h. learning](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning-about-bitcoin-9d6da7b8feea){:target="_blank"}) is needed to dive into this thing. One comedian even said:<br>
-*"It's everything you don't understand about money combined with everything you don't understand about computers".*<br>
-But as you start to learn it, subsequently you will gain knowledge about economics, computer science, math, philosophy, politics, history, and even physics.<br>
+-- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je **[Bitcoin](https://bitcoin-org.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp)** (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme.<br>
+-- Diskusija je poduža kao i priroda tematike, pa je podijeljena na segmente radi lakšeg razumijevanja.
+Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisnosti od nivoa poznavanja materije, trebaće da ga pročita nekoliko puta, pošto obiluje različitim informacijama. Takođe najbolje je da čitanje rasporedite na više dana, prespavate ga, nakon čega će se pojaviti mnoga pitanja. Za njih imate prijatelje i forume za razgovor, kao i blogove, članke i YT kanale / podkaste za slušanje. Takođe možete ostaviti komentar ili pitanje na dnu. I što više znate, više želite da saznate, takozvano *'Pad niz (Bitcoin) Zečju rupu'* (metafora za avanturu u nepoznato iz *Alise u zemlji čuda*). To će vas natjerati na razmišljanje, ali istovremeno i proširiti vaše vidike.<br> 
+-- Ono što je važno je shvatiti ideju i osnove, i kako im pristupiti. Ne moraju svi da znaju sve tehničke detalje da bi ga koristili. Ali za one koji želje dublje da se upute u materiju neka procjena je da je potrebno najmanje [100 sati učenja](https://crypto-telegraphs.com/2022/06/22/100-hours-of-study-needed-to-understand-how-bitcoin-works/){:target="_blank"} ([100 sati učenja](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning-about-bitcoin-9d6da7b8feea){:target="_blank"}) da bi se uronilo u ovu stvar. Jedan komičar je čak rekao:<br>
+*"To je sve što ne razumijete o novcu u kombinaciji sa svime što ne razumijete o računarima".*<br>
+Ali kako počnete da učite, posljedično ćete steći znanje o ekonomiji, informatici, matematici, filozofiji, politici, istoriji, pa čak i fizici.<br>
 PS<br>
-Work is still in progress and needs some final touch refactoring, don't mind if you encounter some remaining mistakes.
+Rad je još uvijek u toku i treba nešto konačnog refaktoriranja, nemojte zamjeriti ako naiđete na neke preostale greške.
 
-## <ins>1 Monetary Chronicles</ins>
+## <ins>1 Monetarne hronike</ins>
 {: #monetary-chronicles }
-### 1.1 Beginning of Money [[C](#toc)]
+### 1.1 Početak novca [[C](#toc)]
 {: #beginning-of-money }
--- When people switched from hunter-gatherers to agriculture and farming around 10,000 years ago, it led to specialization in work, higher productivity and accumulation of surplus products. This enabled creation of bigger settlements, cities and eventually states. It also meant people could exchange (barter) excess things they got or made, for example grains or animals but it was not easy to determine the value of each item nor to split it. Credit was probably the oldest means of trade, with bartering transactions being later developed. Also larger communities meant you need to trade with strangers and some base for trust was needed ([Dunbar's number](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships){:target="_blank"} - one can only maintain about 150 close relationships). They needed a system which would make trade easier. That's why money was invented and how it came into being.<br>
--- In the early days numerous things were used like special looking seashells, rare stones, etc. There is an interesting story about [African trade glass beads](https://www.africanodyssey.co.uk/blog/a-brief-history-of-glass-beads-in-africa){:target="_blank"} ([hyper-inflation misuse for slave trade](https://www.afrikapital.org/p/akori-beads-hyper-inflation-and-ancient){:target="_blank"}) and another one about large stones of [Yap people](https://www.bbc.com/travel/article/20180502-the-tiny-island-with-human-sized-money){:target="_blank"}. Stones were primitive credit system. Later came metals and metal coins, from bronze, silver or gold. If one is wondering why these materials were chosen, it's best first to define features of money ([The money Project](http://money.visualcapitalist.com/infographic-the-properties-of-money/){:target="_blank"}) since it is an abstract concept:
+-- Kada su ljudi prešli sa lovaca-sakupljača na poljoprivredu i stočarstvo prije otprilike 10.000 godina, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viškova proizvoda. Ovo je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli razmjenjivati (trampa) višak stvari koje su nabavili ili napravili, na primjer žitarice ili životinje, ali nije bilo lako odrediti vrijednost svakog predmeta niti ga podijeliti. Kredit je vjerovatno bio najstarije sredstvo trgovine, a trampa se razvila kasnije. Veće zajednice značile su da morate trgovati sa strancima i bila je potrebna neka osnova za povjerenje ([Dunbarov broj](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships){:target="_blank"} - može se održavati samo oko 150 bliskih veza). Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
+-- U ranim danima koristile su se brojne stvari kao što su školjke posebnog izgleda, rijetko kamenje, itd. Postoji zanimljiva priča o [afričkoj trgovini staklenim perlama](https://www.africanodyssey.co.uk/blog/a-brief-history-of-glass-beads-in-africa){:target="_blank"} ([zloupotreba hiperinflacije za trgovinu robljem](https://www.afrikapital.org/p/akori-beads-hyper-inflation-and-ancient){:target="_blank"}) i još jedna o velikom kamenju [Jap naroda](https://www.bbc.com/travel/article/20180502-the-tiny-island-with-human-sized-money){:target="_blank"}. Kamenje je bio primitivni kreditni sistem. Kasnije su došli metali i metalne kovanice, od bronze, srebra ili zlata. Ako se neko pita zašto su ovi materijali odabrani, najbolje je prvo definisati osobine novca ([Projekat novca](http://money.visualcapitalist.com/infographic-the-properties-of-money/){:target= "_blank"}) pošto je apstraktan koncept:
 
-| FUNCTION              | Description                                       |
-| --------------------- | ------------------------------------------------- |
-| 1. Medium of Exchange | accepted method of payment for goods and services |
-| 2. Unit of Account    | measure of value                                  |
-| 3. Store of Value     | to hold value for long period of time             |
+| № | FUNKCIJA          | Opis                                             |
+| - | ----------------- | ------------------------------------------------ |
+| 1 | Sredstvo razjmene | prihvaćeni način plaćanja za robu i usluge       |
+| 2 | Jedinica obračuna | mjera vrijednosti                                |
+| 3 | Čuvar vrednosti   | zadržati vrednost tokom dužeg vremenskog perioda |
 
-Examples of Function:<br>
-&nbsp;1. Society uses certain item like pearl to trade for other goods<br>
-&nbsp;2. Housing prices in Japan can be compared using Jen as a unit of account<br>
-&nbsp;3. An ounce of gold could buy toga in Roman times, yet it can still buy a nice suit today<br>
+Primjeri funkcija:<br>
+1-Društvo koristi određenue predmete kao što je biser za razmjenu za drugu robu<br>
+2-Cijene stanova u Japanu se mogu porediti koristeći Jen kao obračunsku jedinicu<br>
+3-Unca zlata mogla je kupiti togu u rimsko doba, ali i danas može kupiti lijepo odijelo<br>
 
-|    PROPERTIES     | Description                                                      |
-| ----------------- | ---------------------------------------------------------------- |
-| 1. Durable        | able to withstand repeated use                                   |
-| 2. Divisible      | can divide into smaller units                                    |
-| 3. Portable       | easily carried and transported                                   |
-| 4. Acceptable     | universally recognizable                                         |
-| 5. Limited supply | being rare (scarcity) keeps stable value                         |
-| 6. Uniform        | units capable of mutual substitution, interchangeable (fungible) |
+| № | KARAKTERISTIKE | Opis                                               |
+| - | -------------- | ---------------------------------------------------|
+| 1 | Izdržljiv      | sposoban da izdrži višekratnu upotrebu             |
+| 2 | Djeljiv        | može podeliti na manje jedinice                    |
+| 3 | Prijenosan     | lako se prenosi i transportuje                     |
+| 4 | Prihvatljiv    | univerzalno prepoznatljiv                          |
+| 5 | Ograničena kol.| rijetkost (oskudica) održava stabilnu vrijednost   |
+| 6 | Uniforman      | jedinice sposobne za međusobnu zamjenu (zamjenjiv) |
+ 
+-- Očigledno **Zlato** je imalo kvalitete da ispuni većinu ovih uloga, ali nije savršeno, samo najbolje u tom trenutku, ili takoreći najmanje loše. Neki od nedostataka su bili: nije lako za nošenje - skup transport (niska prenosivost), teško se dijeli (potrebno istopiti) i opasnost od krađe i pljačke.<br>
+-- Zbog toga su neki trgovci, kasnije privatne banke pa centralne banke počele držati zlato za ljude a davali im **sertifikate** koliko zlata imaju. Ljudi su tada koristili te potvrde, kao Potraživanje za robu, za trgovinu i tako je nastao **papirni novac** odnosno **novčanice** (mjenice - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} akronim od *'I owe you (Dugujem ti)'*) ili kolokvijalno **gotovina**. Ali loša strana je bila uvođenje posrednika kojima vjerovati. A istorija je puna primjera gdje je to povjerenje iskorišćavano iz raznih razloga, obično stvaranjem više novčanica / banknota nego što je bilo zlata za pokriće. To je dovodilo do bankrota privatnih banaka ili hiperinflacije od strane centralnih banaka, što je u oba slučaja rezultiralo istim ishodom, ljudi su izgubili svoju štednju i kupovnu moć. Banke mogu biti sa punim rezervama ili sa frakcionim rezervama. Jedna od prvih centralnih banaka bila je [Bank of Amsterdam](https://en.wikipedia.org/wiki/Bank_of_Amsterdam){:target="_blank"} (*'Amsterdamsche Wisselbank'*) koja je osnovana davne 1609. godine. Na kraju je većina zemalja preuzela potpunu monetarnu kontrolu i dalji razvoj novca je zaustavljen.<br>
 
--- Obviously **Gold** had qualities to fulfill most of these roles, but it is not perfect, only best at that time, or so to say the least bad. Some of the disadvantages were: not so easy to carry - expensive transport (low Portability), hard to Divide (need to melt), and danger of theft and robbery.<br>
--- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates, as Claim on items, for trade and that's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} acronym of  *'I owe you'*) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that confidence was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power. Banks
-can be with Full reserves or with Fractional reserves. One of the first central banks was [Bank of Amsterdam](https://en.wikipedia.org/wiki/Bank_of_Amsterdam){:target="_blank"} (*'Amsterdamsche Wisselbank'*) that was established back in 1609. Eventually most countries seized full monetary control and further development of money came to a halt.<br>
-
--- **Money** is language, a linguistic and social construct, used as means of communicating value to each other. It is also collective and somewhat fictional narrative about value, with consent of majority. So, it is not inherently valuable, we (subjectively) decide to give it merit. Human labor is still typically measured by working hours, so Money is also [Time, the most valuable currency](https://drtownsend.com/time-valuable-currency/){:target="_blank"} (one second lost cannot be bought back).<br>
--- According to [Information Theory of Money](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1){:target="_blank"} prices and the market are intricately intertwined. Prices reflect information while Money is the measuring stick, and Information is Decentralized. So centralized systems have an unsolvable data problem because of lack of all the necessary knowledge entire time, which results in huge capital misallocation.
+-- **Novac** je jezik, lingvistički i društveni konstrukt, koji se koristi kao sredstvo komunikaciju vrijednosti jedni drugima. To je također kolektivna i donekle izmišljena priča o vrijednosti, uz saglasnost većine. Dakle, nije inherentno vrijedan, mi (subjektivno) odlučujemo da mu damo zasluge. Ljudski rad se još uvijek obično mjeri radnim vremenom, tako da je novac također [Vrijeme, najvrednija valuta](https://drtownsend.com/time-valuable-currency/){:target="_blank"} (jedna izgubljena sekunda ne može se otkupiti).<br>
+-- Prema [Informacionoj teoriji novca](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1){:target="_blank"} cijene i tržište su zamršeno isprepleteni. Cijene odražavaju informacije, dok je novac mjerni štap, a informacije su decentralizovane. Dakle, centralizovani sistemi imaju nerješiv problem podataka zbog nedostatka svih potrebnih znanja cijelo vrijeme, što za rezultat ima ogromnu pogrešnu alokaciju kapitala.
 
 [YT - Finance: The History of Money](https://www.youtube.com/watch?v=YCN2aTlocOw){:target="_blank"}
-
-### 1.2 Recent History [[C](#toc)]
+  
+### 1.2 Skorija istorija [[C](#toc)]
 {: #recent-history }
--- Until 19th century Silver coins were mostly utilized for local Currency, while Gold was used only for high value or international transactions. Definition of **Currency**: Measure in a specific time and place, medium of exchange and legal tender (must be accepted for deferred payment of debt) with strong network effect. Around 1870 switch to Gold was made because silver became abundant, and when it's not Rare it cannot be good money. That's how the so-called ***'Gold Standard'*** was created in which paper notes were backed by physical gold. That was one of most stable and [prosperous periods](https://www.forbes.com/sites/nathanlewis/2013/01/03/the-1870-1914-gold-standard-the-most-perfect-one-ever-created/?sh=1d83ebc64a6a){:target="_blank"}.<br>
--- It was temporarily suspended during WW1 when countries, to fund the war efforts, needed to print more money then allowed. Also, there were exceptions from it during the Great Depression. It's worth remarking here that the USA (United States of America) in [1933 seized all gold](https://theconversation.com/how-the-us-government-seized-all-citizens-gold-in-1930s-138467){:target="_blank"} bullion and coins from its citizens and forced them to sell it below market price.
-Again, during WW2 money was overprinted and Gold Standard dropped. Then in 1944, shortly before the end of the war, there was the [Bretton Woods Agreement](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp){:target="_blank"} where 44 allied countries agreed to use **US Dollar (USD - $)** as world's Reserve Currency and for international trading and settlement. Reason it was the US dollar is that the USA was the dominant power at the time, both economically and militarily, which meant it had the greatest influence on the world. It also had biggest reserve of gold, of their own and of allied countries that was shipped there during WW2 for safekeeping.<br>
--- Later the US slipped into a huge budget deficit, caused by excessive domestic spending and by Vietnam war, so the easiest solution was to print more money than there was gold to back it. That finally led to 1971 when the US government with Richard Nixon as president decided to [abandon the Gold Standard](https://www.theguardian.com/business/2021/aug/15/rise-of-cryptocurrencies-can-be-traced-to-nixon-abandoning-gold-in-1971){:target="_blank"}, meaning dollars were not redeemable for gold from US reserves. After that in 1975 the USA made deal with major **Oil** producing countries, [Saudi Arabia deal](https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret){:target="_blank"} in the first place, that they sell primary energy commodity in US dollars. In return US will give them military protection and make sure sea routes are safe for tankers, with the help of navy. That's how the term **Petrodollars** came, an unofficial system or simply a global practice where dollars were desirable since one could exchange them easily for much needed barrels of petroleum. Some would say dollars were backed by crude oil, most important resource of 20th century. In the following decades USA was exporting inflation to the rest of the world while importing real goods.<br>
+-- Sve do 19. vijeka srebrne kovanice su se uglavnom koristile kao lokalna valuta, dok se zlato koristilo samo za velike vrijednosti ili međunarodne transakcije. Definicija **Valute**: Mjera u određeno vrijeme i mjesto, sredstvo razmjene i zakonsko sredstvo plaćanja (mora biti prihvaćeno za odloženo plaćanje duga) sa jakim mrežnim efektom. Oko 1870. godine došlo je do prelaska na zlato jer je srebra postalo u izobilju, a kada nije rijetko ne može biti dobar novac. Tako je nastao takozvani ***'zlatni standard'*** u kojem su papirne novčanice bile pokrivene fizičkim zlatom. To je bio jedan od najstabilnijih i [prosperitetnih perioda](https://www.forbes.com/sites/nathanlewis/2013/01/03/the-1870-1914-gold-standard-the-most-perfect-one-ever-created/?sh=1d83ebc64a6a){:target="_blank"}.<br>
+-- Privremeno je suspendovan tokom Prvog svjetskog rata kada su zemlje, da bi finansirale ratne napore, morale da štampaju više novca od dozvoljenog. Takođe, bilo je izuzetaka od toga tokom Velike depresije. Ovdje je vrijedno napomenuti da su SAD (Sjedinjene Američke Države) [1933. godine zaplijenile sve zlate] (https://theconversation.com/how-the-us-government-seized-all-citizens-gold-in-1930s-138467 ){:target="_blank"} poluge i novčiće svojih građana i natjerao ih da ih prodaju ispod tržišne cijene.
+Opet, tokom Drugog svjetskog rata novac je prekomjerno štampan i zlatni standard je napušten. Zatim 1944. godine, malo prije kraja rata, postojao je [Bretton Woods sporazum](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp){:target="_blank"} gdje su se 44 saveznika zemlje su se složile da koriste **USD dolar (USD - $)** kao svjetsku rezervnu valutu i za međunarodnu trgovinu i poravnanje. Razlog zašto je to bio američki dolar je taj što su SAD bile dominantna sila u to vrijeme, kako ekonomski tako i vojno, što je značilo da su imale najveći utjecaj na svijet. Imali su i najveće rezerve zlata, svoje i od savezničkih zemalja, koje je tamo otpremano tokom Drugog svjetskog rata na čuvanje.<br>
+-- Kasnije su SAD skliznule u ogroman budžetski deficit, uzrokovan prekomjernom domaćom potrošnjom i ratom u Vijetnamu, pa je najlakše rješenje bilo štampati više novca nego što je bilo zlata da bi se to podržalo. To je konačno dovelo do 1971. kada je američka vlada s *Richard Nixon*-om kao predsjednikom odlučila [napustiti zlatni standard] (https://www.theguardian.com/business/2021/aug/15/rise-of-cryptocurrencies-can-be-traced-to-nixon-abandoning-gold-in-1971){:target="_blank"}, što је značilo da se dolari ne mogu zamjeniti za zlato iz američkih rezervi. Nakon toga 1975. SAD su sklopile dogovor sa zemljama koje su glavni proizvođači **Nafte**, [dogovor sa Saudijskom Arabijom](https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret){:target="_blank"} na prvom mjestu, da prodaju primarnu energetsku robu u američkim dolarima. Zauzvrat, SAD će im pružiti vojnu zaštitu i osigurati da morski putevi budu sigurni za tankere, uz pomoć mornarice. Tako je nastao pojam **Petrodolari**, nezvanični sistem ili jednostavno globalna praksa u kojoj su dolari bili poželjni jer su se lako mogli zamijeniti za prijeko potrebne barele nafte. Neki bi rekli da su dolari podržani sirovom naftom, najvažnijim resursom 20. vijeka. U narednim decenijama SAD su izvozile inflaciju u ostatak svijeta dok su uvozile stvarnu robu.<br>
 
+ ____ **DALJI PREVOD JOS U TOKU ...** ____
+ 
 ### 1.3 Modern age [[C](#toc)]
 {: #modern-age }
 -- In the modern age money has become more digital, essentially just numbers in computers of private and central banks, as well as in **World bank** and **IMF** (*International Monetary Fund*). First thing is that <ins>most money today is created as **Debt**</ins> (*[Credit theory of money](https://en.wikipedia.org/wiki/Credit_theory_of_money){:target="_blank"} - Credit creation*). Essentially whenever someone gets a loan from the bank for a car or house or whatever, the bank just types that amount into a computer and new money is created while the entire money supply increases. Still when the debt is repaid that money gets destroyed or in a sense deleted.<br>
 -- So in theory this could be stable, so that the economic output of a country is mapped to credit demand while Money Supply gets balanced the right way. However, in practice it is never like this, instead artificial push of loans, money markets, government agendas, etc. make it unstable and prone to corruption and crises with only solution always to inflate/increase the money supply. Temptation to use money printer is just irresistible.<br>
 -- Even in [Roman times](https://www.worldhistory.org/Roman_Coinage/){:target="_blank"} gold and silver coins were, on demand from emperors, occasionally debased by melting them and leaving smaller quantity of precious metal. Eventually coins became totally worthless, and financial decadence was one the reasons the empire toppled. Also, coins were sometimes cut and scratched by thieves. To prevent [clipping](https://historyhouse.co.uk/articles/coin_clipping.html){:target="_blank"} modern coins usually have Reeded edges (grooved lines that encircles perimeter), a counter-counterfeiting practice devised by Isaac Newton who was at a time Warden of the Royal Mint.<br>
 
-**Examples of Crises:**<br>
+**Primjeri krize:**<br>
 &nbsp;**1.** The Recent event that triggered an overprint was the [<ins>Economic Crisis of 2008</ins>](https://www.thebalancemoney.com/2008-financial-crisis-3305679#toc-how-it-could-happen-again){:target="_blank"} which was partly [created by banks](https://www.thebalancemoney.com/what-caused-2008-global-financial-crisis-3306176){:target="_blank"} who gave too many risky credits for real estate backed only by mortgages. And when it all collapsed the government just printed more money to cover it. Excuse was that letting all those banks fail would collapse entire economy both the US and the rest of the world. But still all people paid for the bank misbehavior while managers of those banks at the same time got [huge bonuses](https://www.nytimes.com/2009/07/31/business/31pay.html){:target="_blank"}. Wall Street corruption was exposed with [Payment for Order Flow](https://a16z.com/2021/02/17/payment-for-order-flow/){:target="_blank"} under the counter and shadowy [Short Selling](https://www.investopedia.com/terms/s/shortselling.asp){:target="_blank"} - [Short and Distort](https://www.investopedia.com/articles/analyst/030102.asp){:target="_blank"} (Hedge Funds [under investigation](https://news.bloomberglaw.com/securities-law/hedge-funds-ensnared-in-expansive-doj-probe-into-short-selling){:target="_blank"}) .<br>
 There are some interesting movies about this subject and link with Wall Street such as: [The Big Short](https://www.imdb.com/title/tt1596363/){:target="_blank"} and [Margin Call](https://www.imdb.com/title/tt1615147/). It explains Derivatives like [**CDO**](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/collateralized-debt-obligation-cdo/){:target="_blank"} (*Collateralized Debt Obligation*) and [Synthetic](https://www.investopedia.com/terms/s/syntheticcdo.asp){:target="_blank"} ones, complex structured finance product, with bonds of subprime mortgage (risky home loans to individuals with poor or no credit history) that were used for betting.<br>
 &nbsp;**2.** Another even bigger example was <ins>Corona pandemic</ins> during 2020/2021 that resulted in printing new additional [40 % of all the money](https://techstartups.com/2021/05/22/40-us-dollars-existence-printed-last-12-months-america-repeating-mistake-1921-weimar-germany/){:target="_blank"} in existence. As a result we now face threat of [Stagflation](https://www.cnbc.com/2022/06/21/what-stagflation-is-and-how-to-prepare-for-it.html){:target="_blank"}, inflation rate goes up, while economic growth and employment go down.<br>
@@ -120,14 +119,14 @@ There are some interesting movies about this subject and link with Wall Street s
 -- Some consider Money printing ([*'fiat mining'*](https://bitcoinfoqus.com/fiat-mining/){:target="_blank"}) to be [**UBI**](https://en.wikipedia.org/wiki/Universal_basic_income){:target="_blank"} (*Universal Basic Income*) but for the rich. Since new money is routinely first available for people close to those in power ([Cantillon effect](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"}) and to ones that already have it as they can take big credits and own assets other than cash that are more inflation proof.<br>
 -- The way a country can get more money for budget spending is that the Treasury issues Bonds and the **Central Bank** (*CB*), in the US case the [**FED**](https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm){:target="_blank"} (*Federal Reserve System* - [history](https://www.federalreserveeducation.org/about-the-fed/history/){:target="_blank"}), prints that amount of money and buys those bonds. Since today most money is not in the form of paper cash but is digital, creating new money is simply typing digits on the computers of banks that are saved to a database.<br>
 
--- Also monetary tools and systems are made very complex. Some would argue deliberately in order to obfuscate it and make it less transparent and more obscure so that fewer people would object to the system itself. One of the printing mechanisms is [**QE-Quantitative Easing**](https://www.forbes.com/advisor/investing/quantitative-easing-qe/){:target="_blank"}, where banks have the right to issue credits, meaning to print money as already explained, based on deposits they have, in ratio 1:10 or even more ([Fractional Reserve Banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp){:target="_blank"}). Opposite policy is known as **Quantitative Tightening**. While CB's Fiat system creates massive extended credit with horrible consequences, Fractional Banking is distinct and not necessarily bad. Let's also define term *base point* that is 1/100 part of percent or 0.01 %, which is often used when stating CB interest rates.<br>
+-- Also monetary tools and systems are made very complex. Some would argue deliberately in order to obfuscate it and make it less transparent and more obscure so that fewer people would object to the system itself. One of the printing mechanisms is [**QE-Quantitative Easing**](https://www.forbes.com/advisor/investing/quantitative-easing-qe/){:target="_blank"}, where banks have the right to issue credits, meaning to print money as already explained, based on deposits they have, in ratio 1:10 or even more ([Fractional Reserve Banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp){:target="_blank"}). Opposite policy is known as **Quantitative Tightening**. Let's also define term *base point* that is 1/100 part of percent or 0.01 %, which is often used when stating CB interest rates.<br>
 -- It is not just central bank that prints money but also commercial ones all around the world. Let's now introduce the notion of [**Eurodollar**](https://www.investopedia.com/terms/e/eurodollar.asp){:target="_blank"} - dollar deposits at foreign banks or American banks branches outside of US (mostly in Europe). They deserve notice because they are not subject to regulation nor reserve requirements. In this regard it is hard to even know exactly the total supply of money in existence ([all-of-the-worlds-money](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/){:target="_blank"}).<br>
 -- In addition, there are different layers of money:<br>
 -M1 = base money (currency in circulation, checking and savings accounts, checks)<br>
 -M2 = M1 + money market funds<br>
 -M3 = M2 +  other financial instruments<br>
 
-**Trust**<br>
+**Povjerenje**<br>
 is a confident relationship with the unknown, a social glue that bridges the gap:<br>
 `Known` <---> TRUST <---> `Unknow`<br>
 It's a currency of interactions.<br>
@@ -148,7 +147,7 @@ Evidently institutional trust (legacy system) is no longer working, because it w
 | 4 | Licensed      | Accountable   |
 | 5 | Top-down      | Bottom-up     |
 
-### 1.4 Sum it so far [[C](#toc)]
+### 1.4 Dosadašnji sažetak [[C](#toc)]
 {: #sum-it-so-far }
 -- Countries have the complete control of money and can inflate it for various reasons with several economic tools. That power is then often misused by political elites and corporations while chasing profits (somewhat greedy), that results in high inflation or in some cases even hyperinflation. This sort of inflation's Moral Hazard is practically an additional hidden ([regressive](https://www.lemonde.fr/en/economy/article/2022/06/27/inflation-is-the-most-regressive-tax-of-all_5988059_19.html){:target="_blank"}) Tax on population that [nobody voted for](https://www.johnlocke.org/inflation-is-a-tax-nobody-voted-for/){:target="_blank"}. One could argue it's theft in a sense or financial robbery. It is slowly siphoning wealth from the average person to the politically well-connected. And while prices of all goods just increase, salaries do not always grow to keep up, instead workers have to explicitly asks it from employers. So small wage raise does not mean more purchase power, it's just to keep up with inflation.<br>
 (*"Inflation is the one form of taxation that can be imposed without legislation"* - M. Friedman)<br>
@@ -168,14 +167,14 @@ Even those with good intentions often had bad results:<br>
 &nbsp;-When pay for it with inflation it unintentionally collapses the currency<br>
 &nbsp;-Mismeasure the extent of monetary policy while underestimate the cost<br>
 
-## <ins>2. Bitcoin Explanation</ins>
+## <ins>2. Bitcoin objašnjenje</ins>
 {: #bitcoin-explanation }
-### 2.1 How it all started [[C](#toc)]
+### 2.1 Kako je sve počelo [[C](#toc)]
 {: #how-it-all-started } 
 -- With the beginning of the Internet, information sharing via forums and mails also enabled global spread of ideas. Important movement in this regard was [*Crypto-anarchism*](https://en.wikipedia.org/wiki/Crypto-anarchism){:target="_blank"} as a political ideology ([ideological origin](https://fee.org/articles/the-ideological-origins-of-bitcoin/){:target="_blank"}) focusing on protection of privacy, political and economic freedom.<br>
 -- [*'The Crypto Anarchist Manifesto'*](https://libinst.cz/wp-content/uploads/2020/08/havel.pdf){:target="_blank"} was one of the first written papers that articulated this idea, written by [*Timothy C. May*](https://nakamotoinstitute.org/authors/timothy-c-may/){:target="_blank"} in 1988 and shared at a Crypto conference ([*'Arise, you have nothing to lose..'*](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html){:target="_blank"}). Document introduced the basic principles of crypto-anarchism, encrypted exchanges ensuring total anonymity, absolute freedom of speech, and full freedom to trade. Another similar work at the time was [*'A Cypherpunk's Manifesto'*](https://www.activism.net/cypherpunk/manifesto.html){:target="_blank"} for privacy by mathematician [*Eric Hughes*](https://academy.bit2me.com/en/quien-es-eric-hughes/){:target="_blank"} ('cypher' derived from CYber and ciPHER). Later in 1992 a specific mail group called ***'Cypherpunks Mailing List'*** was started and by 1994 had around 1000 subscribers. They were considering using **cryptography** to make digital (virtual) **Decentralized** money.<br>
 -- US Intelligence services like NSA (*National Security Agency*), because of their spying programs, even tried to limit use and export of cryptographic tools. Those attempts were known as [Crypto Wars](https://en.wikipedia.org/wiki/Crypto_Wars){:target="_blank"}, that privacy advocates opposed with Free speech rights.<br>
-NSA still has systems like [PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet){:target="_blank"} ([prism-break](https://prism-break.org/en/){:target="_blank"}), a worldwide surveillance program, that was exposed by whistleblower Edward Snowden. Even [Julian Assange](https://theconversation.com/a-new-book-argues-julian-assange-is-being-tortured-will-our-new-pm-do-anything-about-it-183622){:target="_blank"}, the WikiLeaks founder, previously warned about such monitoring. And both of them had become most-wanted whistleblowers by the US government.<br>
+NSA still has systems like [PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet){:target="_blank"} ([prism-break](https://prism-break.org/en/){:target="_blank"}), a worldwide surveillance programme, that was exposed by whistleblower Edward Snowden. Even [Julian Assange](https://theconversation.com/a-new-book-argues-julian-assange-is-being-tortured-will-our-new-pm-do-anything-about-it-183622){:target="_blank"}, the WikiLeaks founder, previously warned about such monitoring. And both of them had become most-wanted whistleblowers by the US government.<br>
 -- Just like there were torrent (data stream) networks for P2P Peer-to-Peer file sharing (music, films e.g. [Napster](https://en.wikipedia.org/wiki/Napster){:target="_blank"}, [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent){:target="_blank"}) this was imagined to be a network for digital value. Leading Big Tech companies are networks as well: Google - information; Facebook - social; There is also browser for privacy called [TOR](https://www.torproject.org/download/){:target="_blank"} abbreviation from [The Onion Rooting](https://en.wikipedia.org/wiki/Tor_(network)){:target="_blank"}.<br>
 
 -- 2 remarkable economists, both Nobel laureate, even predicted the rise of Bitcoin:<br>
@@ -206,7 +205,7 @@ In the following years several persons were incorrectly suspected or falsely cla
 [The history of the cypherpunks](https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/)<br>
 ![cypherpunks](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/cypherpunks.jpg)
 
-### 2.2 Technical background [[C](#toc)]
+### 2.2 Prošireni opis [[C](#toc)]
 {: #technical-background }
 -- From an engineering aspect Bitcoin protocol is a masterpiece software. We could see that the compelling idea has been circulating for some time and several components of it already existed. But nevertheless, integrating it all into a functional unit was done ingeniously. Hats down to Satoshi whoever he / she or they be, for the first full implementation of the idea, while being a truly visionary. Also, the timing was just right. Firstly, the internet and cryptography were sufficiently developed. Secondly the political and economic situation was fertile as well, inspiration came from revolt. Also, to define a word **Bit** (binary digit) - the smallest unit of data that a computer can process and store, whose value can be 0 or 1. <br>
 -- Let's jump to the point:<br>
@@ -226,9 +225,9 @@ Bitcoin has a **Ledger** of transactions, which is a list stored in a database t
 From functional viewpoint is can be defined as the Great Chain of being sure about things.
 3 pillars of blockchain technology are: Decentralization, Transparency (Auditability), Immutability.
 
--- [**Hash**](https://en.wikipedia.org/wiki/Hash_function){:target="_blank"} is a cryptographic function that converts longer text into a relatively unique code (Message Digest) of fixed length, but reverse cannot be done in any practical time. This characteristic is used to do the so-called **Mining**, virtual one of course, a term taken from the gold industry. That work consists of trying an enormous number of combinations to find one where hash begins with several [leading zeros](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/#toc-the-mining-process){:target="_blank"} (000...). Some like to draw analogy with [Sudoku puzzle](https://steemit.com/bitcoin/@abhi3700/crypto-thoughts-ct-5-bitcoin-mining-analogy-sudoku-puzzle){:target="_blank"}. All miners are competing to find it and when one does then a new block is finished, synced across the network, and he also gets the reward of a certain amount of newly created coins.<br>
+-- [**Hash**](https://en.wikipedia.org/wiki/Hash_function){:target="_blank"} is a cryptographic function that converts longer text into a relatively unique code of fixed length, but reverse cannot be done in any practical time. This characteristic is used to do the so-called **Mining**, virtual one of course, a term taken from the gold industry. That work consists of trying an enormous number of combinations to find one where hash begins with several [leading zeros](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/#toc-the-mining-process){:target="_blank"} (000...). Some like to draw analogy with [Sudoku puzzle](https://steemit.com/bitcoin/@abhi3700/crypto-thoughts-ct-5-bitcoin-mining-analogy-sudoku-puzzle){:target="_blank"}. All miners are competing to find it and when one does then a new block is finished, synced across the network, and he also gets the reward of a certain amount of newly created coins.<br>
 --In the long term based on statistics, every miner should get approximately equal sum, while on the other side they have spent electric power. Based on the number of participants, the algorithm adjusts the difficulty level to keep it always around 10 minutes. It's done in a way that when there are more miners leading to more hash power difficulty increases which makes it harder to find a solution. This process is called **PoW *(Proof of Work)***, the term is self-explanatory, that consists of defined rules. The [**Nakamoto Consensus**](https://medium.com/nakamo-to/nakamoto-consensus-21cd304f96ff){:target="_blank"} is a set of rules that verifies the authenticity of a blockchain network. It is using a combination of the proof-of-work [consensus algorithm](https://coinmarketcap.com/alexandria/article/what-is-the-nakamoto-consensus){:target="_blank"} (consensus rules) on a [**BFT**](https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft){:target="_blank"} peer-to-peer network (BFT - *Byzantine Fault Tolerance* that solves *Byzantine Generals Problem* a situation in which majority of actors must agree on a coordinated strategy).<br>
--- Another important thing to elaborate is [**PKI**](https://www.keyfactor.com/resources/what-is-pki){:target="_blank"} (*Public Key Infrastructure*), which is used here to sign digital info with a private key so others can confirm the signature using the public key, usually packed into a **Digital Certificate**. It ensures that no one can spend coins not belonging to them if they do not have the code aka private key. PKI is usually using [***RSA* algorithm**](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/){:target="_blank"} which is based on mathematical inability for large number factorization, to effectively find Prime factors. RSA can be used for digital encryption (hidden data) or for digital signature (ensures data integrity, authentication, and non-repudiation). Others algorithms include SHA-256, *Diffie-Hellman* and *Elliptic curve (ECDSA)* ([discrete logarithm problem](https://www.researchgate.net/publication/220784858_The_Elliptic_Curve_Discrete_Logarithm_Problem_State_of_the_Art){:target="_blank"}).<br>
+-- Another important thing to elaborate is [**PKI**](https://www.keyfactor.com/resources/what-is-pki){:target="_blank"} (*Public Key Infrastructure*), which is used here to sign digital info with a private key so others can confirm the signature using the public key, usually packed into a **Digital Certificate**. It ensures that no one can spend coins not belonging to them if they do not have the code aka private key. PKI is usually using [***RSA* algorithm**](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/){:target="_blank"} which is based on mathematical inability for large number factorization, to effectively find Prime factors. RSA can be used for digital encryption (hidden data) or for digital signature (ensures data integrity, authentication, and non-repudiation). Others algorithms include *Diffie-Hellman* and *Elliptic curve* ([discrete logarithm problem](https://www.researchgate.net/publication/220784858_The_Elliptic_Curve_Discrete_Logarithm_Problem_State_of_the_Art){:target="_blank"}).<br>
 ![PKI](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/pki.png)
 
 -- Combination of these elements makes entire process quite intriguing and at the same time gives several positive consequences:<br>
@@ -246,7 +245,7 @@ From functional viewpoint is can be defined as the Great Chain of being sure abo
 [BlockExplorer](https://blockexplorer.com/){:target="_blank"}; | [BlockStream](https://blockstream.info){:target="_blank"};<br>
 BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks](https://blockchain.com/btc/blocks){:target="_blank"}; | [balance](https://bitref.com/){:target="_blank"};
 
-### 2.3 Extended description [[C](#toc)]
+### 2.3 Prošireni opis [[C](#toc)]
 {: #extended-description }
 -- As a new internet protocol [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin){:target="_blank"} enables transfer of value over communication channel. Other earlier application protocols include *https* (web page), *ftp* (file), *smtp* (mail), etc. With latest you can basically send gold coin like mail, any amount of value to anywhere in the world almost instantly. Without anyone being able to stop it or have control, it is **Censorship Resistant** and can't be easily confiscated.<br>
 It is the first case where Greed and Altruistic incentives aligns. You can now make most selfish decision and also contribute to greater equality in the world when compared to the fiat system. As such it is very useful technological innovation that enables distributed consensus but can also be looked at from various angles. When trying to fully understand it one need to grasp its ***multitude of aspects*** (interdisciplinary):<br>
@@ -257,7 +256,7 @@ It is the first case where Greed and Altruistic incentives aligns. You can now m
 &nbsp;5. **Social**<br>
 
 -- YT videos:<br>
-[What is Bitcoin](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [Explained Simply](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
+[What is Bitcoin)](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [Explained Simply](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
 [How bitcoin work](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=8s){:target="_blank"}; | [How blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4){:target="_blank"};<br>
 TED talks:<br>
 -[Blockchain changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"}<br>
@@ -276,7 +275,7 @@ TED talks:<br>
 Legislative part also includes business and infrastructure analogous to Parliament (Representatives) while Devs are like Senate. If compared to enterprises best parallels can be drawn with IT (Information Technology) companies.<br>
 -- Product is global monetary currency and payment system and at the same time the Coin represents owners or shareholders. On the other side are Developers and Miners, along with Nodes, like very wide Board of Directors, Management and Supervisory.<br>
 
-**The Rules of Bitcoin:**<br>
+**Pravila bitkoina:**<br>
 &nbsp;1. No Confiscation<br>
 &nbsp;2. No Censorship<br>
 &nbsp;3. No Inflation<br>
@@ -294,7 +293,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 &nbsp;&nbsp;&nbsp; (Technology evolving the world at a rate faster than ever before)<br>
 &nbsp; - Simply put, the world is moving at light speed<br>
 
-**More informal (loosely) Definitions:**<br>
+**Dodatne neformale definicije:**<br>
 * 1 Hard Asset (Trust-Minimized)
   - premium Commodity
   - inalienable digital Property<br>
@@ -348,14 +347,14 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
   - persuasive idea that rewrites your mind, an inception
   - people are inspired to contemplate / speak / write about (this blog being proof)
 
-## <ins>3. Comparative Advantage</ins>
+## <ins>3. Komparativna prednost</ins>
 {: #comparative-advantage }
 ### 3.1 SWOT analysis [[C](#toc)]
 {: #swot-analysis }
 Most **Strengths & Opportunities** it brings are already stated.<br>
 So let's look at certain **Weaknesses & Threat** and their explanations:<br>
 
-**Criticisms** (some are unsubstantiated):
+**Kritike** (neke su neosnovane):
 * 1 The protocol can be copied since it's Open Source
   - Network effect keeps BTC at top, also mining makes it hard to duplicate all hardware and infrastructure
   - There are many copies and forks, both Hard and Soft, but they have little or no value and less liquidity
@@ -385,7 +384,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
   - Creating (good) money cannot be free
   - Btc [energy usage isn’t a problem](https://www.lynalden.com/bitcoin-energy/){:target="_blank"} and [Energy Consumption](https://www.youtube.com/watch?v=2T0OUIW89II){:target="_blank"}
   - Incentive is to use cheapest energy, currently mostly from [renewables](https://wintonark.medium.com/bitcoin-mining-impact-on-renewable-uptake-fc91c5aa9be0){:target="_blank"} ([solar](https://medium.com/blockchain-life-tech/rooftop-solar-and-crypto-mining-could-kick-off-a-green-power-revolution-ad91d523b35b){:target="_blank"})<br>
-    also from remote location that is unusable because of far distance (Geo-independent)
+    also from remote location otherwise unusable and wasted (Geo-independent)
   - Can contribute to [stabilizing electric grid](https://www.vaultelectricity.com/how-bitcoin-will-help-stabilize-the-texas-grid-and-lower-electricity-rates/){:target="_blank"} by reducing miners' consumption in peak times
   - Uses excess energy of current power plants that is otherwise just wasted
   - Generated heat by the mining rigs could be used for heating of homes
@@ -404,7 +403,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
   - Becoming more [Evenly distributed over time](https://blog.bitbeginner.com/p/70b13407-7a78-4e56-acd1-e1365b8adbd9?s=r#footnote-anchor-11){:target="_blank"}
   - Tends towards Normal (Gaussian) distribution, referred as [Bell Curve](https://www.investopedia.com/terms/b/bell-curve.asp){:target="_blank"} ([The Bitcoin Bell-Curve](https://hassmccook.medium.com/the-bitcoin-bell-curve-a-long-term-solution-to-global-wealth-income-inequality-de995929e267){:target="_blank"})
 
-**Existing problems with respective solutions**
+**Postojeći problemi sa odgovarajućim rješenjima**
 * 1 Limited capacity - Inefficient, not scalable enough<br>
   (currently max around 10 transaction per sec. making them slow and expensive)
   - [Blockchain Trilemma](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition){:target="_blank"} (resilience vs efficiency):<br>
@@ -416,7 +415,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
 * 2 Not fully private, only semi-anonymous / [fungibility](https://mises.org/wire/why-fungibility-important-understanding-money-and-crypto){:target="_blank"}
   - Mixers for getting more privacy while L2 removes individual spending from main net
 
-**Future potential Risks**
+**Budući potencijalni rizici**
  * 1 Some big unknown bug gets found that breaks the network
    - Not likely since it did not emerge for 13 years, and hackers have tried to find it
    - Code of protocol based on formal Math theorems
@@ -432,15 +431,15 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
 
 Some Critics would challenge Bitcoin on its Noninflationary nature, a subject that deserves separate paragraph.<br>
 
-### 3.2 Deflation [[C](#toc)]
+### 3.2 Deflacija [[C](#toc)]
 {: #deflation }
 -- It is a decrease / drop in the general price level of goods and services. It occurs when the inflation rate falls below 0 %.
-Often used in Economic crisis as a scary word related to Recession and Depression.<br>
+Often used in Economic crisis as a scary word related to Recession and Depression, or combined as [Stagflation](https://www.investopedia.com/terms/s/stagflation.asp){:target="_blank"}.<br>
 A Deflationary Spiral is a downward price reaction to an economic crisis leading to lower production, lower wages, decreased demand, and falling prices.<br>
 -- But [Deflationary economy](https://www.reddit.com/r/CryptoCurrency/comments/u0efbj/you_wouldnt_spend_a_deflationary_currency_bitcoin/){:target="_blank"} isn’t inherently a recessionary environment at all. In fact, some of the most prosperous times of growth in history were strongly deflationary. As production becomes more efficient it is natural that prices go down. Also, Bitcoin is not formally deflationary, technically it's programmed to be **Disinflationary**, rate of inflation reduces every 4 years. This result in a constant monetary base without changes to the supply.<br>
 
 -- In order to be able to spread BTC, in the beginning it had higher inflation which is reducing over time. In the long time when everybody owns and use it price would stabilize, but prior it has to rise a lot while gravitates towards zero-inflation. The problem is we live in a system that is completely opposite and based on debt. This debt must get cheaper over time with inflation, because if the opposite were true, all nations and companies would default. The issue isn’t so much deflation per se, it’s the transition from where we are now, being over leveraged, to a low-inflationary environment.<br>
--- Eventually it could come to equilibrium where the value of entire money supply would match the total Economic Output of world. This allows everybody to have long time horizon and plan on longer period, which is good both for humans and environment. People would buy quality long-lasting stuffs, instead of buying a lot of garbage that would soon be thrown away. Instead of framing things narrowly, it allows to take a broader view and make better decision. Also, in this hypothetical world there wouldn't be extravagant hoarding that leads to macroeconomic recession. Instead, people earn in bitcoins but also spend sats according to their needs and plans.<br>
+-- Eventually it could come to equilibrium where the value of entire money supply would match the total Economic Output of world. This allows everybody to have long time horizon and plan on longer period, which is good both for humans and environment. People would buy quality long-lasting stuffs, instead of buying a lot of garbage that would soon be thrown away. Instead of framing things narrowly, it allows to take a broader view and make better decision. Also in this hypothetical world there wouldn't be extravagant hoarding that leads to macroeconomic recession. Instead, people earn in bitcoins but also spend sats according to their needs and plans.<br>
 -- When it comes to wages even if they go down a little bit, price of goods would go down even more making person richer. The difference between nominal and real wages is fundamental. There is no point of rising nominal wages, what matters is net of inflation/deflation.<br>
 On the whole **Benefits outweighs the Risks** significantly.<br>
 
@@ -454,7 +453,7 @@ Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_b
 ![Btc Monetary Inflation](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/btc-monetary-inflation.png)<br>
 
 
-### 3.3 Other Cryptos [[C](#toc)]
+### 3.3 Ostale kripto valute [[C](#toc)]
 {: #other-cryptos }
 -- When compared to Others crypto coins, important differences are that **BTC** have [**First Mover**](https://corporatefinanceinstitute.com/resources/knowledge/strategy/first-mover-advantage/){:target="_blank"} advantage ([the Half-Truth](https://hbr.org/2005/04/the-half-truth-of-first-mover-advantage){:target="_blank"}), so is most known and almost everybody already heard about it. Then it has no leader per se so has higher decentralization and it was **never hacked**. Still, this does not mean that all others are worthless, some of them could have valuable additional features. Only those that are not in the same domain as BTC and  target totally different use case, anything else expect base treasury asset, can survive. Of course there were, are, and will be, a lot of those that are pure scam, like [OneCoin](https://technext.ng/2022/07/05/all-you-need-know-onecoin-crypto-scam/){:target="_blank"}, or deceptive with pump-and-dump manipulative scheme (Greater Fool theory). Then there is crap group with stupid idea. Both are in a so-called 'shit' coins category. What remains is small number that could have useful purpose but even many of those will fail because of poor implementation. Just a handful will survive and thrive and maybe become leader in some domain. Still BTC is at the moment only one that has real chance of becoming global monetary system.<br>
 -- There are several reasons why it is main One, crypto King, which includes:<br>
@@ -467,12 +466,12 @@ Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_b
 &nbsp;4. Simplistic design in its core and in accordance to IT principle [***KISS***](https://www.techopedia.com/definition/20262/keep-it-simple-stupid-principle-kiss-principle){:target="_blank"} (*Keep IT Simple, Stupid*)<br>
 &nbsp;5. Does only one main function in the base - being just money but does it very good.<br>
 
--- Some Altcoins (Alternative coins - any other then Bitcoin) could be viewed as startups where buying those is similar to investing in that company. For example DeFi - *Decentralized Finance* (Crypto [Glossary](https://www.forbes.com/uk/advisor/investing/cryptocurrency/crypto-glossary-of-terms-acronyms/){:target="_blank"} and [Acronyms](https://www.coindesk.com/learn/from-btd-to-fud-to-wagmi-understanding-crypto-acronyms/){:target="_blank"}) application that replicate certain bank services and others. With those investment can often be done with [**ICO**](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp){:target="_blank"} (*Initial Coin Offer*), analogous to **IPO** (*Initial Public Offer*). It's like Dot-com bubble in the 2000s where there were many companies that had website but just a few grow to become Microsoft, Google, Apple, Amazon, etc. While bulk of others have completely failed and we never even heard about them.<br>
+-- Some Altcoins (Alternative coins - any other then Bitcoin) could be viewed as startups where buying those is similar to investing in that company. For example DeFi - *Decentralized Finance* (Crypto [Glossary](https://www.forbes.com/uk/advisor/investing/cryptocurrency/crypto-glossary-of-terms-acronyms/){:target="_blank"} and [Acronyms](https://www.coindesk.com/learn/from-btd-to-fud-to-wagmi-understanding-crypto-acronyms/){:target="_blank"}) application that replicate certain bank services and others. With those investment can often be done with [**ICO**](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp){:target="_blank"} (*Initial Coin Offer*), analog to **IPO** (*Initial Public Offer*). It's like Dot-com bubble in the 2000s where there were many companies that had website but just a few grow to become Microsoft, Google, Apple, Amazon, etc. While bulk of others have completely failed and we never even heard about them.<br>
 Still only BTC is considered (also [by the SEC](https://www.reuters.com/legal/transactional/are-cryptocurrencies-securities-sec-is-answering-question-2022-03-21/){:target="_blank"}) as **Asset** (other way phrasing it **Digital Property**) while all others cryptos are described as **Securities** (*The Next Bitcoin is Bitcoin*).
 
 -- There are also NFTs (Non-Fungible Tokens) that act like prestige Collectibles (artist's digital graphics and drawing). But they are not in the scope of this article.
 
-### 3.4 Proof of Work (PoW) vs Stake [[C](#toc)]
+### 3.4 Dokaz o radu/ulogu (PoW/PoS) [[C](#toc)]
 {: #pow-vs-pos }
 -- Proof of Stake (PoS) protocols are another class of algorithms for consensus first invented in 2012. They work by selecting validators in proportion to their quantity of holdings in cryptocurrency. This is done to avoid the computational cost.
 Key distinction is that they are not decentralized enough, [quantified](https://news.earn.com/quantifying-decentralization-e39db233c28e){:target="_blank"} by [**Nakamoto Coefficient**](https://crosstower.com/resources/education/nakamoto-coefficient/){:target="_blank"}, similar to Gini coefficient for inequality measure. PoS does not have incentives in line with it, also distribution is always an issue. So they can only ever be a Security equity (asset issued by body) and not a Commodity.<br>
@@ -481,9 +480,9 @@ Key distinction is that they are not decentralized enough, [quantified](https://
 ![Hashrate](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/hashrate.png)
 [Chart source](https://ycharts.com/indicators/bitcoin_network_hash_rate){:target="_blank"} and other mining data with [hashrate info](https://www.blockchain.com/charts/hash-rate){:target="_blank"}.
 
-## <ins>4. Global Effects</ins>
+## <ins>4. Globalni efekti</ins>
 {: #global-effects }
-### 4.1 Economic impact [[C](#toc)]
+### 4.1 Ekonomski uticaj [[C](#toc)]
 {: #economic-impact }
 -- BTC gives more Economic freedom, and it makes money *SAVING simple* as it should be. It brings financial tools to unBanked, underBanked and underServiced world, allowing people to become almost Bankless in traditional sense (de-bank the world). Important aspect and one of reason why entire project was successful is because of good [**Tokenomics**](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/){:target="_blank"} - financial incentives to mine, buy, use and hold tokens.<br>
 -- Worth mentioning are the Economic Cycles. A phenomenon where Economy goes through boom-and-bust period that are manifested with bullish and bearish markets.
@@ -494,7 +493,7 @@ In it he gave few simple advice, 3 rules of thumbs:<br>
 &nbsp;3. Do all that you can to raise your Productivity<br>
 ![price history](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/economic-cycles.jpg)
 
--- Regarding the Cycles we find them also in Bitcoin short history, each lasting around 4 years, approximately halving period. Here each cycle has been less volatile, since larger market cap makes it harder to swing, and was also hyped in certain moments. In prior periods it was correlated with Nasdaq index and still is partially. However, lately [dissociation from correlation](https://biz.crast.net/how-stagflation-could-trigger-global-bitcoin-adoption/){:target="_blank"} with equities may indicate that widespread bitcoin adoption is accelerating, while [stagflation](https://www.investopedia.com/terms/s/stagflation.asp){:target="_blank"} may be the underlying fundamental factor driving bitcoin adoption.<br>
+-- Regarding the Cycles we find them also in Bitcoin short history, each lasting around 4 years, approximately halving period. Here each cycle has been less volatile, since larger market cap makes it harder to swing, and was also hyped in certain moments. In prior periods it was correlated with Nasdaq index and still is partially. However, lately [dissociation from correlation](https://biz.crast.net/how-stagflation-could-trigger-global-bitcoin-adoption/){:target="_blank"} with equities may indicate that widespread bitcoin adoption is accelerating, while stagflation may be the underlying fundamental factor driving bitcoin adoption.<br>
 
 ![price history](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/price-history.jpeg)
 
@@ -504,7 +503,7 @@ On the other side it had gone down the same way. Additionally recent crash was c
 -- Bitcoin as a new asset class gain incredible popularity. When it comes to total market cap at some point was 1 Trillion, while entire crypto market was around 2 T. It took Google 22 years to become 1 T company, While Bitcoin got there in 12 years. Tradeable Gold market is about 5 trillion. For it to catch up would mean value jumping 20 times (educated guess) from current price. Note that entire stock market is around 100 T, while real estates are 300 T.
 Bitcoin in average had growth of 200 % yearly for a decade, it was the best performing asset.
 
-### 4.2 Political implications [[C](#toc)]
+### 4.2 Političke implikacije [[C](#toc)]
 {: #political-implications }
 -- Inflating currency supply distorts the money and equals creating more imaginary products which negatively affects the markets.
 Central planning (of money also) goes against evolution, one of the reasons it always fails.
@@ -525,7 +524,7 @@ They might be the first to implement [CBDC](https://www.investopedia.com/terms/c
 So, most exchanges have to be in Compliance with these rules and ask user for Identity documents.
 Still there are some DEXs (Decentralized exchanges) that can circumvent these requirements.<br>
 -- At the moment countries have varying range of [attitudes towards bitcoin](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp){:target="_blank"}. Those more [friendly ones](https://learn.bybit.com/investing/most-crypto-friendly-countries/){:target="_blank"} have legalized it in a way to be either accepted (US, EU,...), or non taxable (*Portugal* as prominent with [residency](https://rebase.co/portugal){:target="_blank"} for [Digital Nomads](https://govisafree.com/crypto-portugal/){:target="_blank"} including ['Bitcoin family'](https://www.cnbc.com/2022/02/06/bitcoin-family-moves-to-portugal-crypto-tax-haven.html){:target="_blank"}), or even legal tender ([El Salvador](https://www.weforum.org/agenda/2021/09/el-salvador-officially-adopts-bitcoin-as-legal-tender-but-will-other-countries-follow){:target="_blank"} first one; [El Zonte](https://www.npr.org/2022/03/27/1086851329/el-salvadors-leader-wants-to-go-in-even-bigger-on-bitcoin){:target="_blank"} - [Bitcoin Beach](https://www.cbsnews.com/news/bitcoin-beach-el-salvador-60-minutes-2022-04-10/){:target="_blank"}). Both Miami and New York City now have [Bitcoin-friendly mayors](https://www.coindesk.com/policy/2022/03/16/bitcoin-friendly-mayors-view-blockchain-as-a-way-to-boost-equality-diversity/){:target="_blank"}. On the other side are more skeptical ones still waiting to see where it goes.<br>
--- Regarding legality ground there is interesting segment of the US Constitution, [Article I - Section 10](https://www.law.cornell.edu/constitution-conan/article-1/section-10/clause-1/limits-on-issuing-legal-tender){:target="_blank"}, where it forbids states from issuing "bills" (promissory notes) but gold and silver coin can be used as legal "tender". So if bitcoin would be considered analogous to gold it might be used as legal tender by default ([talk with attorney Aaron Daniel](https://www.youtube.com/watch?v=sPh1a46SL4w){:target="_blank"}).<br>
+-- Regarding legality ground there is interesting segment of the US Constitution, [Article I - Section 10](https://www.law.cornell.edu/constitution-conan/article-1/section-10/clause-1/limits-on-issuing-legal-tender){:target="_blank"}, whereit forbids states from issuing "bills" (promissory notes) but gold and silver coin can be used as legal "tender". So if bitcoin would be considered analog to gold it could become legal tender by default ([talk with attorney Aaron Daniel](https://www.youtube.com/watch?v=sPh1a46SL4w){:target="_blank"}).<br>
 
 -- Btc is hope for many people who are in despair and marginalized. One of use cases is to give freedom to people in countries under some sanction like [Cuba](https://www.coindesk.com/business/2022/03/08/you-would-understand-bitcoin-if-you-were-under-cubas-embargo/){:target="_blank"}, Iran, etc. It can also help refugees escape conflict zones and leave (with their saving) from Libya, Russia, Ukraine, Syria, etc. Same is true for those fleeing oppressive and tyrannical regimes. Bitcoin and marvelous blockchain technology give a new paradigm of economy with no territory that supersedes regular borders.<br>
 -- Next to mention that many African countries have very weak (high inflating) currency, in which a lot of impoverished people don't have access to financial services. Some are even using foreign issued post-colonial money, namely [CFA Franc](https://cointelegraph.com/news/we-don-t-like-our-money-the-story-of-the-cfa-and-bitcoin-in-africa){:target="_blank"} that is still controlled by the French treasury. So Open Source code is [fighting monetary colonialism](https://bitcoinmagazine.com/culture/bitcoin-a-currency-of-decolonization){:target="_blank"} as well, as described by Alex Gladstein.<br>
@@ -537,11 +536,11 @@ Still there are some DEXs (Decentralized exchanges) that can circumvent these re
 -- CB could be gone in its current form, even fiat could be backed by Bitcoin or central government reduced in that regard. Essentially removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.
 -- [The politics of bitcoin](https://blogs.lse.ac.uk/politicsandpolicy/the-politics-of-bitcoin/){:target="_blank"} underpins its social life.
 
-### 4.3 Social component [[C](#toc)]
+### 4.3 Socijalna komponenta [[C](#toc)]
 {: #social-component }
 -- As the ecosystem grew, many diverse subgroups have joined the movement.
 Initially it started with crypto OG (Original Gangster) a slang for developer or founder of early crypto blockchain.
-Then came anonymous, libertarians, conservatives, progressives, entrepreneurs, VCs (Venture Capitalist - investors), miners, traders, etc. It was not singular ethos but had many heterogeneous Subcommunities (extreme diversity) where everyone saw something of interest that suits them. It was like heterogeneous rebel alliance with extreme diversity. Some are often referred as [*'True Bitcoiners'*](https://theconversation.com/behind-the-crypto-hype-is-an-ideology-of-social-change-177981){:target="_blank"}, a forerunners of movement and ideology. It is similar to term Bitcoin *Maximalist* (Btc Maxi), meaning those who promote only Bitcoin. There was some toxicity in the public space, that could be filtered.  Maybe best label would be BTC Realist or simple a **Bitcoiner**.<br>
+Then came anonymous, libertarians, conservatives, progressives, entrepreneurs, VCs (Venture Capitalist - investors), miners, traders, etc. It was not singular ethos but had many Subcommunities where everyone saw something of interest that suits them. Some are often referred as [*'True Bitcoiners'*](https://theconversation.com/behind-the-crypto-hype-is-an-ideology-of-social-change-177981){:target="_blank"}, a forerunners of movement and ideology. It is similar to term Bitcoin *Maximalist* (Btc Maxi), meaning those who promote only Bitcoin. There was some toxicity in the public space, that could be filtered.  Maybe best label would be BTC Realist or simple a **Bitcoiner**.<br>
 -- In philosophic sense there is also [Bitcoin Minimalism](https://danhedl.medium.com/bitcoin-minimalism-b3ed4b88e852){:target="_blank"} (Create more, consume less - as explained by *Dan Held*). In political arena it had brought together all from opposite spectrum and reduced polarization. In addition, since its wide adoption has just started all those who don't have any amount of bitcoin yet are called *No-Coiners*.<br>
 
 -- One of the reasons it takes time for adopting is that people first need to learn and understand it. Most schools teach very little about finances and even less about money itself. Governments have no interest to fully educate citizens, it's easier for them when less people see inflation as indirect tax.
@@ -564,11 +563,11 @@ Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtub
 -- Today's Overconsumption Society is not sustainable in the long run. Planet does not have unlimited resources. So, investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in landfills. Society should change its buying habits since planet resources are not unlimited. Also, production should aim for durability, and not have [planned obsolescence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less. This fundamentally changes how our economy functions.
 -- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead, higher productivity could allow most people to have 30h week (automation could free time for more human creativity).
 
-## <ins>5. Looking Forward</ins>
+## <ins>5. Gledajući naprijed</ins>
 {: #looking-forward }
-### 5.1 Future Development [[C](#toc)]
+### 5.1 Budući razvoj [[C](#toc)]
 {: #future-development }
-*Roadmap*<br>
+*Dalji plan*<br>
 -- It is nothing less than a miracle that the project the survived and took off. Already 13 years in action uninterrupted, had not stopped for a second and it gained a lot of traction. In the first half of last decade, it was unknown to wide public, used only by enthusiasts, and also was very uncertain. Although still in early to mid-stage we can say that the biggest hurdles are behind. It is running flawlessly and is absolutely thriving in adoption.
 We can identify Crypto ecosystem as new cultural and economic trend that started from forum, spread through [Reddit](https://www.reddit.com/r/Bitcoin/){:target="_blank"} and [Twitter](https://twitter.com/Bitcoin){:target="_blank"} into fabric of social circle. This created condition under which broader Adoption occurred.<br>
 -- Internet evolution led from pure data and communication to social information and digital value. In that regard this next steep of scientific evolution is standing on the shoulders of giants.<br>
@@ -581,7 +580,7 @@ We can identify Crypto ecosystem as new cultural and economic trend that started
 Rate of adoption is following [S curve](https://www.inbitcoinwetrust.net/bitcoin-on-the-same-adoption-s-curve-as-the-internet-some-thoughts-and-figures-8af18f01cceb){:target="_blank"} and [gaining speed](https://phemex.com/blogs/crypto-bitcoin-s-curve-adoption-curve){:target="_blank"} (just like the internet did):<br>
 ![s-curve](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/s-curve.jpg)
 
-### 5.2 What lies ahead [[C](#toc)]
+### 5.2 Šta dalje [[C](#toc)]
 {: #what-lies-ahead }
 -- First, it's important to learn as much and have all-encompassing understanding of it all. Since this system is not forced but is **Opt-In** (freely choose to use it / be involved and possibly make better world) just learning about it is already a contribution. Next then comes playing with it and later promote the idea by teaching others around you (it's virtuous to teach people). There is a famous meme (rapidly spread cultural element): [**LaserEyes**](https://www.wealthsimple.com/en-ca/magazine/laser-eyes-crypto){:target="_blank"} - significant focus on important thing that can make a difference.<br>
 Secondly decide if you want to buy some, for now as an investment and later as a Savings Accounts. This way you will try it yourself and learn a few things. Install one or few of [recommended wallets](https://academy.aax.com/en/introducing-the-4-best-lightning-network-wallets-for-sending-and-receiving-bitcoin/){:target="_blank"} (such as *Phoenix, Breez, Muun, Blue Wallet*), register on exchange, withdraw funds to your wallet (take off exchanges).<br>
@@ -590,7 +589,7 @@ Secondly decide if you want to buy some, for now as an investment and later as a
 -- Currently in 2022 around 200 million people (4 % of world's population) are estimated to have same amount of bitcoin/sats. Every big change need time, in this case decades. It's not something that can happen overnight, as people have to learn and accept it. For most persons it was outside of their world view (mental model).<br>
 -- Some expectation is that by 2030 1 billion people will have btc wallets. In over 100 countries it would be regulated like foreign currency, while in 10 at least accepted as legal tender.
 
-### 5.3 Practical Approach [[C](#toc)]
+### 5.3 Praktični pristup [[C](#toc)]
 {: #practical-approach }
 -- In broad sense Investment plan includes first to inform yourself, do your homework. Second to decide what amount is at your disposal for investing. Lastly to split it based on your risk appetite among several classes of asset. At an early-stage risk was much higher and in accordance with maxim: *Invest only what you are ready to lose*. Now it is less risky than in the last decade but still it is considered relatively riskier class, mainly because of large up and down swings.<br>
 Only if you become convinced enough into the Bitcoin story is it good idea to invest.<br>
@@ -620,9 +619,10 @@ Suggestions:<br>
 -- Safeguard yourself, especially from YouTube comment section under every crypto related video clip. They are full of so-called trading strategy experts with some fake name and WhatsApp number for contact (#ScamAlert - stay away)
 
 -- Bitcoin market, by nature, is not highly efficient because not all the stakeholders have same knowledge. It has interesting game theory Information asymmetry.
-New people coming in don't have same information as those who have been here. They play the game of economic coordination differently.  Also [human behavior in finance](https://www.cnr.com/insights/article/white-paper-behavioral-finance-2018.html){:target="_blank"} is often irrational and most people do not evaluate risk correctly. They are bias towards gains but still have [Loss Aversion](https://www.apa.org/science/about/psa/2015/01/gains-losses){:target="_blank"}: 
-*The aggravation in losing money seems greater than the pleasure of gaining the same amount*.<br>
-As for those interested in trading between cycles be aware of [80-20 Rule](https://alphachain.co.uk/blog/trading-80-20-using-the-pareto-rule-in-trading){:target="_blank"} ([Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp){:target="_blank"})
+New people coming in don't have same information as those who have been here. They play the game of economic coordination differently.  Also [human behavior in finance](https://www.cnr.com/insights/article/white-paper-behavioral-finance-2018.html){:target="_blank"} is often irrational and most people do not evaluate risk correctly.<br>
+As for those interested in tradign betweatn cycles be aware of [80-20 Rule](https://alphachain.co.uk/blog/trading-80-20-using-the-pareto-rule-in-trading){:target="_blank"} ([Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp){:target="_blank"})
+They are bias towards gains but still have [Loss Aversion](https://www.apa.org/science/about/psa/2015/01/gains-losses){:target="_blank"}: 
+*The aggravation in losing money seems greater than the pleasure of gaining the same amount*.
 
 -- Popular crypto **[Exchanges](https://coinmarketcap.com/rankings/exchanges/){:target="_blank"}** (places to buy Bitcoin):<br>
 *Kraken, Binance, FTX, Coinbase, Bitstamp, Gemini*<br>
@@ -636,28 +636,28 @@ As for those interested in trading between cycles be aware of [80-20 Rule](https
 -[Rainbow chart](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"}:<br>
 ![rainbow-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/rainbow-chart.jpg)
 
-### 5.4 Recapitulation [[C](#toc)]
+### 5.4 Rekapitulacija [[C](#toc)]
 {: #recapitulation }
 -- Money systems have changed through history and current one has mayor flaw, it being centralized and having too much power in single place. That inevitable leads to corruption which ultimately results in high inflation, so we can say it is broken. Also, as permissioned system and it is over controlling. Reason it was tolerated is that it was the best that existed at the time. But with new time come new technology that enabled better systems. From Store of Value perspective, it should have lowest possible inflation. In this regard Bitcoin is in simple words just better money and overall good if we apply moral and ethical framework to it.<br>
 -- Hyperinflation and [currency collapses](https://ginifoundation.org/kb/fiat-currency-graveyard-a-history-of-monetary-folly/){:target="_blank"} are not exceptionally rare events. In fact, the average lifespan of a fiat currency is only about 35 years, which means these events happen much more frequently than many people realize. When viewed from civilization perspective we want store to last minimum our lifetime, better even longer for inheritance. Also, many of societal problems arise from money, so fixing the money could improve the world, in part at least (meme: ***Bitcoin Fixes this!***). Money should be a **Fiduciary** system - legally and ethically bound to act in clients/users' best interest and ahead of their own, duty to preserve good faith and trust.<br>
 -- As a Conclusion hope that this comprehensive review can arouse your curiosity and elevate critical thinking. And watch out from being stuck in echo chamber, always seek more opinions.<br>
 
 -- Leave a **Comment** (literary criticism) and give your 2 cents (personal opinion) or to say here 2 satoshies.<br>
-[**Comments Form**](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform){:target="_blank"}<br>
+[**Forma za komentare**](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform){:target="_blank"}<br>
 (Both compliments and critics are welcomed)<br>
-[**View all Comments**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
+[**Vidi sve komentare**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
 -- Stay tuned for next month post about Lightning Network.<br>
 With it there will be a **Quiz** with Questions. For those who get all the correct answers, reward will be certain amount of sats via lightning invoice.
 
- APPENDIX<br>
-**Disclaimer**:<br>
+ DODATAK<br>
+**Odricanje odgovornosti**:<br>
 -The opinions expressed in this publication belong to the author alone.<br>
 -It does not constitute professional financial advice, it's more like an investigative report.<br>
 -Please DYOR (Do Your Own Research / due diligence) thoroughly before making any financial decisions and proceed with caution.<br>
-**Disclosure**: Author owns some bitcoins.
+**Otkrivanje**: Author owns some bitcoins.
 
-**References** (data source or additional info)<br>
+**Reference** (data source or additional info)<br>
 -- They are linked directly in text<br>
 ([**List of all URL-s**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"})<br>
 -- To expose some of mostly referenced web pages:<br>
